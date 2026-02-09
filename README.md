@@ -1,17 +1,16 @@
-<h1 align="center">Aleksa Filic</h1>
+<h1 align="center">Eira S. Gozum</h1>
 
-<h3 align="center">🚀 AI & Blockchain Engineer</h3>
+<h3 align="center">🚀 AI & Full-stack Engineer</h3>
 
 <p align="center">
-  📧 <strong><a href="mailto:carlomarquez130@gmail.com">aleksafilic1999@gmail.com</a></strong> | 
-  <!-- 💼 <strong><a href="https://www.linkedin.com/in/carlo-marquez-9b5051388/">Linkedin</a></strong> |  -->
-  🐙 <strong><a href="https://github.com/dreamchain-ai">GitHub</a></strong>
+  📧 <strong><a href="mailto:eigozum3@gmail.com">eigozum3@gmail.com</a></strong> | 
+  💼 <strong><a href="https://www.linkedin.com/in/carlo-marquez-9b5051388/">Linkedin</a></strong>
 </p>
-<!-- <p align="center">
+<p align="center">
   ☕️ <a href="https://ko-fi.com/carlonmarquez130/"><strong>Buy me a coffee if you like my work</strong></a> ☕️
-</p> -->
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamchain-ai&label=Profile%20views&color=0e75b6&style=flat" alt="aleksafilic" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamchain-ai&label=Profile%20views&color=0e75b6&style=flat" alt="eigozum" /> </p>
 
 ### 🔭 I’m currently working on
 - Developing **Generative AI** and **advanced transformer architectures**.
