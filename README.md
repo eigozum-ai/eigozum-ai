@@ -12,26 +12,28 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamchain-ai&label=Profile%20views&color=0e75b6&style=flat" alt="eigozum" /> </p>
 
+---
+
 ### 🔭 Currently working on
-- Building **LLM-powered applications** and RAG pipelines for real-world workflows  
-- Developing **scalable AI services** for finance and education dashboards  
-- Integrating **automation + AI** into business decision support systems  
+- Building **end-to-end AI solutions** combining ML, Generative AI, backend APIs, and interactive dashboards  
+- Developing **full-stack AI applications** with FastAPI, React, and Next.js  
+- Integrating AI-powered analytics and forecasting pipelines to support business and education decision-making  
 
 ---
 
 ### 🌱 Skills & Tech
-**AI & ML:** Python, PyTorch, TensorFlow, Generative AI, Forecasting Models  
-**Web & Backend:** FastAPI, REST APIs, React, Next.js  
-**Data & Analytics:** Pandas, NumPy, ETL pipelines, KPI dashboards  
-**Deployment & Cloud:** Docker, AWS, GCP, Azure  
+**AI & ML:** Python, PyTorch, TensorFlow, Hugging Face, Computer Vision, Generative AI, LLM fine-tuning, RAG pipelines, Forecasting models  
+**Data & Analytics:** Pandas, NumPy, ETL pipelines, Feature Engineering, KPI Modeling, Structured & Unstructured Data  
+**Web & Backend:** FastAPI, REST APIs, React, Next.js, Dashboard Development, AI System Integration  
+**Deployment & Cloud:** Docker, CI/CD, Linux Environments, AWS, GCP, Azure  
 **Languages:** Python, SQL, JavaScript/TypeScript, Bash, C/C++  
 
 ---
 
 ### 💬 Ask me about
 - Machine Learning & Deep Learning pipelines  
-- Computer Vision & Real-time Edge AI  
-- Finance Analytics, Forecasting & Automation  
+- Computer Vision & Generative AI  
+- Financial Forecasting & Risk Analytics  
 - Full-Stack AI Integration & Dashboard Development  
 
 ---
