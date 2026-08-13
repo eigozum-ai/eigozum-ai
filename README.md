@@ -1,6 +1,6 @@
 <h1 align="center">Eira S. Gozum</h1>
 
-<h3 align="center">🚀 AI Engineer| Machine Learning, Generative AI & Full-Stack Development</h3>
+<h3 align="center">🚀 AI Engineer | Machine Learning, Generative AI & Full-Stack Development</h3>
 
 <p align="center">
   📧 <strong><a href="mailto:eigozum3@gmail.com">eigozum3@gmail.com</a></strong> | 
@@ -23,12 +23,12 @@
 ---
 
 ### 🌱 Technical Skills
-**AI & Machine Learning:** Python, PyTorch, Computer Vision, NLP, Generative AI, LLMs, Embeddings, RAG  
-**Data & Analytics:** Pandas, NumPy, SQL, ETL Pipelines, Feature Engineering, Data Analysis & Reporting, Forecasting  
-**Backend & Integration:** FastAPI, REST APIs, LLM API Integration, Workflow Automation, n8n, Node.js  
-**Frontend:** React, Next.js, Dashboard Development  
-**Deployment & Cloud:** Docker, CI/CD, Linux, AWS, GCP  
-**Languages:** Python, SQL, JavaScript/TypeScript
+- **AI & Machine Learning:** Python, PyTorch, Computer Vision, NLP, Generative AI, LLMs, Embeddings, RAG  
+- **Data & Analytics:** Pandas, NumPy, SQL, ETL Pipelines, Feature Engineering, Data Analysis & Reporting, Forecasting  
+- **Backend & Integration:** FastAPI, REST APIs, LLM API Integration, Workflow Automation, n8n, Node.js  
+- **Frontend:** React, Next.js, Dashboard Development  
+- **Deployment & Cloud:** Docker, CI/CD, Linux, AWS, GCP  
+- **Languages:** Python, SQL, JavaScript/TypeScript
 
 ---
 
